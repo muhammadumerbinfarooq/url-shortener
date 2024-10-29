@@ -14,11 +14,13 @@ This project is a simple URL shortener built using Python. It takes a long URL a
    ```bash
    git clone https://github.com/yourusername/url-shortener.git
    cd url-shortener
-Install Dependencies:
-pip install pyshorteners
+2. **Install Dependencies**
+   ```bash
+   pip install pyshorteners
 
-Run the Script:
-python url_shortener.py
+3. **Run the Script:**
+   ```bash
+   python url_shortener.py
 
 Example
 Enter the URL to shorten: https://www.example.com
