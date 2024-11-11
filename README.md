@@ -10,7 +10,7 @@ This project is a simple URL shortener built using Python. It takes a long URL a
 ## How to Use
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/url-shortener.git
+   git clone https://github.com/muhammadumermemon/url-shortener.git
    cd url-shortener
 2. **Install Dependencies**
    ```bash
